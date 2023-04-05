@@ -1,8 +1,7 @@
-def sum(x,y):
-    s=x+y
 
 i=0
+S=0
 while(i<=5):
-    s=sum(1,2)
+    S+=1
     i+=1
-print(s)
+    print(S)

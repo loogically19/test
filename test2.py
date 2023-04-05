@@ -1,5 +1,3 @@
-from tkinter import *
-
-window=Tk()
-inputArea=Label
+def mult(x,y):
+    m=x*y
 
